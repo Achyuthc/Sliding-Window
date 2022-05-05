@@ -9,4 +9,4 @@ Step2: Have a while loop inside to reduce the window side by sliding toward righ
 
 Step3: Store the current maximum window size or minimum window size or number of windows based on problem requirement.
 
-Identification includes the problem contains about frequency of letters or numbers. the constraint is like <k or >=k.so we the window according to the condition
+Identification includes the problem contains about frequency of letters or numbers. the constraint is like < k or >= k.so we the window according to the condition
