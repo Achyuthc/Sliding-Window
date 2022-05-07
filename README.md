@@ -11,6 +11,11 @@ Step3: Store the current maximum window size or minimum window size or number of
 
 Identification includes the problem contains about frequency of letters or numbers. the constraint is like < k or >= k.so we the window according to the condition
 ->related to substring or subarray
+
 ->the number of ways is calculated by using hashmap or by considering number of ways that ends at or starts at.
+
 ->subarray must start at index and end at some index take that as refercence to get some results in the question.
+
 ->hashmap is used sometimes to count the chars or numbers present in window.
+
+->if u need to perform front as well as back operations for sliding the window we can use deque<inr> dq.
